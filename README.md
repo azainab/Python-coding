@@ -1,6 +1,6 @@
 # Python-coding
 
-# output the list of drawdowns as per concept of finance
+# output the list of drawdowns as per the concept of finance
 
 import pandas as pd
 
